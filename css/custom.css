@@ -1,0 +1,30 @@
+
+img {
+display:block;
+width:100%;
+float: left;
+}
+
+
+/*.caption p{
+	postion:relative;
+	padding-bottom: 10px;
+}*/
+section .description{
+	font-size: 20px;
+	text-align: center;
+
+}
+.formstyle{
+	margin: 0 auto;
+	width: 40%;
+	min-width: 300px;
+
+}
+footer{
+	margin-top: 400px;
+}
+
+
+
+
